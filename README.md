@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a Full-Stack Software Developer<br>🤝 I’m looking for help with finding a job<br>🌱 I’m currently learning AI/ML<br>💬 Ask me about Football
+🔭 I’m currently working as a Full-Stack Software Developer<br>🌱 I’m currently learning AI/ML<br>💬 Ask me about Football
 
 
 ## 🌐 Socials:
